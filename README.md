@@ -1,6 +1,6 @@
 # Codsoft Internship Program Projects
 
-## Project 1: Titanic Survival Prediction
+## Task 1: Titanic Survival Prediction
 
 ### Overview
 This project focuses on predicting the survival of passengers aboard the Titanic using machine learning techniques. The dataset includes various features like age, gender, class, etc., and the goal is to create a model that accurately predicts whether a passenger survived or not.
@@ -13,7 +13,7 @@ This project focuses on predicting the survival of passengers aboard the Titanic
 - Matplotlib
 - Seaborn
 
-  ## Project 2: Credit Card Fraud Detection
+  ## Task 2: Credit Card Fraud Detection
 
 ### Overview
 This project focuses on detecting fraudulent transactions in credit card data. Using various machine learning algorithms, the goal is to build a model that can accurately identify potentially fraudulent activities and prevent financial losses.
@@ -26,7 +26,7 @@ This project focuses on detecting fraudulent transactions in credit card data. U
 - Matplotlib
 - Seaborn
 
-  ## Project 3: Sales Prediction
+  ## Task 3: Sales Prediction
 
 ### Overview
 This project involves predicting sales based on historical data. By analyzing various factors like time, promotions, and other relevant features, the aim is to build a model that accurately forecasts future sales for business planning.
