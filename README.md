@@ -1,3 +1,6 @@
+ ## About Codsoft
+Codsoft is a dynamic and innovative company committed to providing cutting-edge solutions in software development. This project is part of the Codsoft Internship Program, aiming to enhance practical skills and contribute to real-world problem-solving.
+
 # Codsoft Internship Program Projects
 
 ## Task 1: Titanic Survival Prediction
@@ -39,10 +42,5 @@ This project involves predicting sales based on historical data. By analyzing va
 - Matplotlib
 - Seaborn
 
-  ## About Codsoft
-Codsoft is a dynamic and innovative company committed to providing cutting-edge solutions in software development. This project is part of the Codsoft Internship Program, aiming to enhance practical skills and contribute to real-world problem-solving.
+ 
 
-## Contact Information
-For inquiries about these projects or the Codsoft Internship Program, please contact:
-- Email: internship@codsoft.com
-- Website: [www.codsoft.com](https://www.codsoft.com)
